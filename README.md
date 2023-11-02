@@ -102,3 +102,108 @@ $ python predict.py
 我们是来自**暨南大学**某不知名小组～
 
 **负责人**联系邮箱📮 2911567026@qq.com
+
+### This project was created to provide paper data availability and is reproduced from the following link attributed to the second author:
+
+1) [https://github.com/hengyi666/pytorch-code-recognition](https://github.com/hengyi666/pytorch-code-recognition)
+2) [https://github.com/HengY1Cola/Jnu-Stuhealth/blob/main/handleValidate.py](https://github.com/HengY1Cola/Jnu-Stuhealth/blob/main/handleValidate.py)
+
+# Based on CNN recognition verification code (Pytorch)
+
+## Preface
+
+Reference link: https://github.com/dee1024/pytorch-captcha-recognition
+
+This semester I chose the **artificial intelligence** professional course (bushi🐶)!
+
+This is the **final homework** of our group. Since we have to do it, we should open source and develop one that can be used in **actual combat**.
+
+Then I refactored it and did some expansion.
+
+## Effect and principle
+
+**Training set**: (using the commonly used Python verification code generation library ImageCaptcha)
+
+```
+Training set: 100k
+Test set: 5k
+```
+
+------
+
+> In terms of accuracy, the greater the number, the closer it is to the final accurate value (there will be a deviation)
+
+| Type | Accuracy | Weight | Extraction code |
+| :---------------------: | :----: | :-------------------------- --------------------------------: | :----: |
+| 4 digits + uppercase letters | 85.2% | [Download link]( https://pan.baidu.com/s/1IC7qvrJKrwygMT5r_hN8aA ) | spdc |
+| 4 digits + uppercase and lowercase | 72.38% | [Download link](https://pan.baidu.com/s/1ubshKMdjuRSvc7405cON8w) | he0w |
+
+<img src="https://dailypic.hengyimonster.top/rate72.png" alt="image-20211211200828095" style="zoom:66%;" />
+
+## Quick start
+
+- **Step 1: Setup**
+
+Go to setting.py to set `CHOOSE_LIST` and `MAX_CAPTCHA`
+
+<img src="https://dailypic.hengyimonster.top/image-20211211201535432.png" alt="image-20211211201535432" style="zoom:30%;" />
+
+- **Step 2: Create your own training set**
+
+Go to setting.py to set `count` and `path`
+
+The optional parameters are already in the comments.
+
+> Here are suggestions:
+>
+> The number of training sets is 10k+ (a training set of 100K is recommended)
+>
+>The number of validation sets is 1k+
+
+```bash
+$ python makeImage.py
+```
+
+
+
+<img src="https://dailypic.hengyimonster.top/image-20211211201749408.png" alt="image-20211211201749408" style="zoom:30%;" />
+
+- **Step 3: Train the model**
+
+The generated files will be stored in `./result`
+
+```bash
+$ pythontrain.py
+```
+
+- **Step 4: Test the model**
+
+```bash
+$pythontest.py
+```
+
+- **Step 5: Model prediction**
+
+```bash
+$ python predict.py
+```
+
+## Log and Outlook
+
+- Log 📝
+   - 2021-12-11: The code is basically formed. The winning rate for 4-digit numbers + capital letters is stable at around 85%
+   - 2021-12-18: The 4-digit number + uppercase and lowercase letter model reached a maximum of about 73% after a week of training
+   - 2021-12-19: Upload the basically formed warehouse.
+- Outlook 🦅
+
+   - The accuracy rate can reach above 90.
+
+##  Contact information
+
+Looking forward to your PR
+
+And shameless🙇‍♀️your more excellent hyperparameters.
+
+We are an unknown group from **Jinan University**~
+
+**Responsible person** contact email📮 2911567026@qq.com
