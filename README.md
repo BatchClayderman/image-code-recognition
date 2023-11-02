@@ -103,12 +103,14 @@ $ python predict.py
 
 **负责人**联系邮箱📮 2911567026@qq.com
 
+-------------------------------------------------
+
 ### This project was created to provide paper data availability and is reproduced from the following link attributed to the second author:
 
 1) [https://github.com/hengyi666/pytorch-code-recognition](https://github.com/hengyi666/pytorch-code-recognition)
 2) [https://github.com/HengY1Cola/Jnu-Stuhealth/blob/main/handleValidate.py](https://github.com/HengY1Cola/Jnu-Stuhealth/blob/main/handleValidate.py)
 
-# Based on CNN recognition verification code (Pytorch)
+# Image verification code recognition based on CNN (Pytorch)
 
 ## Preface
 
