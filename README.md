@@ -103,9 +103,7 @@ $ python predict.py
 
 **负责人**联系邮箱📮 2911567026@qq.com
 
----
-
----
+<hr style="border: 2px solid black">
 
 ### This project was created to provide paper data availability and is reproduced from the following link attributed to the second author:
 
