@@ -1,3 +1,8 @@
+### 此项目为提供论文数据可用性而创建，转载自以下归属第二作者的链接：
+
+1) [https://github.com/hengyi666/pytorch-code-recognition](https://github.com/hengyi666/pytorch-code-recognition)
+2) [https://github.com/HengY1Cola/Jnu-Stuhealth/blob/main/handleValidate.py](https://github.com/HengY1Cola/Jnu-Stuhealth/blob/main/handleValidate.py)
+
 # 基于CNN识别验证码(Pytorch)
 
 ##  前言
