@@ -105,6 +105,8 @@ $ python predict.py
 
 ---
 
+---
+
 ### This project was created to provide paper data availability and is reproduced from the following link attributed to the second author:
 
 1) [https://github.com/hengyi666/pytorch-code-recognition](https://github.com/hengyi666/pytorch-code-recognition)
