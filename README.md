@@ -3,15 +3,13 @@
 1) [https://github.com/hengyi666/pytorch-code-recognition](https://github.com/hengyi666/pytorch-code-recognition)
 2) [https://github.com/HengY1Cola/Jnu-Stuhealth/blob/main/handleValidate.py](https://github.com/HengY1Cola/Jnu-Stuhealth/blob/main/handleValidate.py)
 
-### VeriBypasser 系统
-
-[https://github.com/BatchClayderman/VeriBypasser/tree/main](https://github.com/BatchClayderman/VeriBypasser/tree/main)
-
 # 基于CNN识别验证码(Pytorch)
 
 ##  前言
 
-参考链接：https://github.com/dee1024/pytorch-captcha-recognition
+参考链接：[https://github.com/dee1024/pytorch-captcha-recognition](https://github.com/dee1024/pytorch-captcha-recognition)
+
+VeriBypasser 系统：[https://github.com/BatchClayderman/VeriBypasser/tree/main](https://github.com/BatchClayderman/VeriBypasser/tree/main)
 
 这个学期选了**人工智能**专业课(bushi🐶)!
 
@@ -114,15 +112,13 @@ $ python predict.py
 1) [https://github.com/hengyi666/pytorch-code-recognition](https://github.com/hengyi666/pytorch-code-recognition)
 2) [https://github.com/HengY1Cola/Jnu-Stuhealth/blob/main/handleValidate.py](https://github.com/HengY1Cola/Jnu-Stuhealth/blob/main/handleValidate.py)
 
-### The VeriBypasser System
-
-[https://github.com/BatchClayderman/VeriBypasser/tree/main](https://github.com/BatchClayderman/VeriBypasser/tree/main)
-
 # Image verification code recognition based on CNN (Pytorch)
 
 ## Preface
 
-Reference link: https://github.com/dee1024/pytorch-captcha-recognition
+Reference link: [https://github.com/dee1024/pytorch-captcha-recognition](https://github.com/dee1024/pytorch-captcha-recognition)
+
+The VeriBypasser system：[https://github.com/BatchClayderman/VeriBypasser/tree/main](https://github.com/BatchClayderman/VeriBypasser/tree/main)
 
 This semester I chose the **artificial intelligence** professional course (bushi🐶)!
 
