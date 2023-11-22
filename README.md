@@ -3,6 +3,10 @@
 1) [https://github.com/hengyi666/pytorch-code-recognition](https://github.com/hengyi666/pytorch-code-recognition)
 2) [https://github.com/HengY1Cola/Jnu-Stuhealth/blob/main/handleValidate.py](https://github.com/HengY1Cola/Jnu-Stuhealth/blob/main/handleValidate.py)
 
+### VeriBypasser 系统
+
+[https://github.com/BatchClayderman/VeriBypasser/tree/main](https://github.com/BatchClayderman/VeriBypasser/tree/main)
+
 # 基于CNN识别验证码(Pytorch)
 
 ##  前言
@@ -109,6 +113,10 @@ $ python predict.py
 
 1) [https://github.com/hengyi666/pytorch-code-recognition](https://github.com/hengyi666/pytorch-code-recognition)
 2) [https://github.com/HengY1Cola/Jnu-Stuhealth/blob/main/handleValidate.py](https://github.com/HengY1Cola/Jnu-Stuhealth/blob/main/handleValidate.py)
+
+### The VeriBypasser System
+
+[https://github.com/BatchClayderman/VeriBypasser/tree/main](https://github.com/BatchClayderman/VeriBypasser/tree/main)
 
 # Image verification code recognition based on CNN (Pytorch)
 
